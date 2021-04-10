@@ -244,6 +244,7 @@
     margin-left: 0;
     padding: 1.5em;
     width: 44%;
+    text-align: right;
   }
   .vertical-timeline--two-columns .vertical-timeline-element-content-arrow {
     top: 24px;
